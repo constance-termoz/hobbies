@@ -1,0 +1,30 @@
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 1000px;
+  background-color:#F2AF29; 
+  text-align: center;
+}
+
+.column2 h2 {
+	color:#183059;
+}
+
+.column2 img {
+	width: 200px;
+	border-radius: 10px;
+}
+
+.column2 img:hover {
+  width: 210px;
+  border-radius: 10px;
+}
+
+.column2 p {
+	margin-bottom: 100px; 
+  font-size: 16px;
+  color: #183059;
+  margin-left: 10px;
+  margin-right: 10px;
+}

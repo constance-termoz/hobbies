@@ -1,0 +1,29 @@
+.column3 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 1000px;
+  background-color:#183059;
+  text-align: center; 
+}
+
+.column3 h2 {
+	color:lightgrey;
+}
+
+.column3 img {
+	width: 200px;
+	border-radius: 10px; /* à remodifier éventuellement pour recentrer les images en fct de ce que je fais avec le texte */ 
+}
+
+.column3 img:hover {
+	width: 210px;
+	border-radius: 10px;
+}
+
+.column3 p {
+	font-size: 16px;
+	color: lightgrey;
+	margin-left: 10px;
+	margin-right: 10px;
+}
